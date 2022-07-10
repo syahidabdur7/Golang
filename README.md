@@ -1,4 +1,4 @@
 # Golang
-coursecoursean
 
-a Simp1e
+
+a Simp1e GO! Languange
